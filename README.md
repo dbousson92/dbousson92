@@ -10,6 +10,8 @@ With that said I did ok im my python course. I do not recall much as it has been
 I have started by uploading the most advanced code I have saved from my previous course and the most advanced code I still understand. "Lab 4" is a simple choice struture of rock paper scissors. The computer has a randomized responce and then an iff declares win, lose, or draw. The game continues to run in a while loop until the user selects not to play again. "Lab" appears to collect information, store it on a list, and something about classes. I really feel lost reading through the actual code of "lab 8"
 
 The most recent file is assignment_2. This is a program that shows the use of manipulators and mathmatical operations. This also shows string converstion as well as casting. The program takes and input and uses global variables to show shipping needs, shipping costs, and profit.
+
+Assignment_3 was just added as this weeks task in my C++ class. This is a program to calculate shipping costs but for us was am introduction to branching and operators. This week we also were introduced to the idea of magic numbers and why it is important to avoid them. This program does not have any in the calculations and the only time numbers randomly appeared they are commented in that they correlate to an ASCII.
 <!---
 dbousson92/dbousson92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
