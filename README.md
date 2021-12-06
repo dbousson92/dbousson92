@@ -16,6 +16,8 @@ Assignment_3 was just added as this weeks task in my C++ class. This is a progra
 Assignment_4 is my first experience using a command line to pass anything. This program will accept an arugment and analyze it. It is limited with a hard code to just analyze one passed object per run. The program will count vowels and total those up. It also counts three random letters, I chose x, y, and z. This also features a rather large switch statement to filter through and count. This was my first experience using a switch statement instead of some form of an if branch.
 
 Assignment 5 is an attempt at creating user defined functions. This program is using the DRY principle. A menu is created in a loop and each selection calls a function. You can create a shopping cart of surfboards and see a total before exiting. There is also a user instruction to explain the surfboard price and size as well as the basics of how to operate the program. This program passes in varibales and manipulates them inside the user functions.
+
+Assignment 6 is the first time using arrays in c++. There are still all other previous practices involved, such as user defined functions. The main function here is simply a couple declared variables and then the functions called. This function takes a consistent text file and splits names from scores. We used bowling scores but realistically a teacher could use this to input grades and get an average score too.
 <!---
 dbousson92/dbousson92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
