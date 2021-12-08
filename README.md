@@ -18,7 +18,12 @@ Assignment_4 is my first experience using a command line to pass anything. This 
 Assignment 5 is an attempt at creating user defined functions. This program is using the DRY principle. A menu is created in a loop and each selection calls a function. You can create a shopping cart of surfboards and see a total before exiting. There is also a user instruction to explain the surfboard price and size as well as the basics of how to operate the program. This program passes in varibales and manipulates them inside the user functions.
 
 Assignment 6 is the first time using arrays in c++. There are still all other previous practices involved, such as user defined functions. The main function here is simply a couple declared variables and then the functions called. This function takes a consistent text file and splits names from scores. We used bowling scores but realistically a teacher could use this to input grades and get an average score too.
+
+Assignment 7 is very similar to assignment 6 in the way that the program does the exact same thing. However you will find this program significantly eaier to read and understand. We learned about structures this week and all the random arrays are now stored in one location. Although this is one of the more complex programs I have written it is one of the easiest to read and follow.
+
+
 <!---
+
 dbousson92/dbousson92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
